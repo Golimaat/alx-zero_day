@@ -1,1 +1,1 @@
-new directory created
+The new directory is updated from Github
